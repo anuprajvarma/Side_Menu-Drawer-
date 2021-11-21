@@ -1,6 +1,6 @@
 # zoomdrawer
 
-A new Flutter project.
+a flutter app used for side menu
 
 ## Getting Started
 
